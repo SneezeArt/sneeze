@@ -1,0 +1,305 @@
+{
+  "version": "5.9.1",
+  "update": {
+    "version": "3.7.6",
+    "message": "1、优化阅读体验"
+  },
+  "review": {
+    "3.7.6": "0"
+  },
+  "bczexcludes": [
+    "热门视频",
+    "长阅读",
+    "本周热读",
+    "铂程斋书评",
+    "浮世绘",
+    "本月热读",
+    "浮世汇",
+    "世界观",
+    "财经风云"
+  ],
+  "tugua_limited": 8,
+  "tuguapexcludetexts": [
+    "海外访问，请加",
+    "友情提示：请各位河蟹评论。道理你懂的",
+    "喷嚏新浪围脖：",
+    "无需App在移动设备上看喷嚏",
+    "https://item.taobao.com/item.htm",
+    "广告"
+  ],
+  "tuguaaexcludetexts": [
+    "115钻石VIP",
+    "115钻石VIP（1年价格=3年",
+    "爱奇艺半价年卡",
+    "https://item.taobao.com/item.htm"
+  ],
+  "tuguapexcludetexts_special": [
+    ">广告</span>"
+  ],
+  "drawer": {
+    "txt": "须知参差多态，乃是幸福本源",
+    "bg": "https://wx1.sinaimg.cn/mw690/6ffa5773ly1gnkqri9sq4j20u011i79t.jpg"
+  },
+  "jpush_appkey": "8ce53b2d1ae264cd93d5a6e9",
+  "yitu": "https://raw.githubusercontent.com/SneezeArt/sneeze/master/yitu.json",
+  "inapp": "1",
+  "founds": [
+    {
+      "title": "首页",
+      "items": [
+        {
+          "title": "编辑推荐",
+          "href": "https://10why.net/"
+        }
+      ]
+    },
+    {
+      "title": "科学世界",
+      "items": [
+        {
+          "title": "数理化篇",
+          "href": "https://10why.net/category/maths/"
+        },
+        {
+          "title": "科技篇",
+          "href": "https://10why.net/category/tech/"
+        },
+        {
+          "title": "天文篇",
+          "href": "https://10why.net/category/astronomy/"
+        },
+        {
+          "title": "地理篇",
+          "href": "https://10why.net/category/geography/"
+        }
+      ]
+    },
+    {
+      "title": "生物王国",
+      "items": [
+        {
+          "title": "人体篇",
+          "href": "https://10why.net/category/human/"
+        },
+        {
+          "title": "动物篇",
+          "href": "https://10why.net/category/animal/"
+        },
+        {
+          "title": "植物篇",
+          "href": "https://10why.net/category/plant/"
+        },
+        {
+          "title": "健康篇",
+          "href": "https://10why.net/category/healthy/"
+        }
+      ]
+    },
+    {
+      "title": "国际博览",
+      "items": [
+        {
+          "title": "交通篇",
+          "href": "https://10why.net/category/traffic/"
+        },
+        {
+          "title": "国家篇",
+          "href": "https://10why.net/category/country/"
+        },
+        {
+          "title": "军事篇",
+          "href": "https://10why.net/category/military/"
+        },
+        {
+          "title": "体育篇",
+          "href": "https://10why.net/category/sport/"
+        }
+      ]
+    },
+    {
+      "title": "人文广场",
+      "items": [
+        {
+          "title": "文化篇",
+          "href": "https://10why.net/category/culture/"
+        },
+        {
+          "title": "艺术篇",
+          "href": "https://10why.net/category/art/"
+        },
+        {
+          "title": "历史篇",
+          "href": "https://10why.net/category/history/"
+        }
+      ]
+    }
+  ],
+  "guokrs": [
+    {
+      "name": "推荐"
+    },
+    {
+      "id": 1,
+      "name": "科技"
+    },
+    {
+      "id": 2,
+      "name": "奇趣"
+    },
+    {
+      "id": 3,
+      "name": "生活"
+    },
+    {
+      "id": 4,
+      "name": "健康"
+    },
+    {
+      "id": 5,
+      "name": "人文"
+    },
+    {
+      "id": 6,
+      "name": "自然"
+    },
+    {
+      "id": 8,
+      "name": "数码"
+    },
+    {
+      "id": 9,
+      "name": "美食"
+    }
+  ],
+  "googlesearchs": [
+    "dapenti.com/blog/readforwx.asp",
+    "dapenti.com/blog/more.asp",
+    "sr.dapenti.com/blog/more.asp"
+  ],
+  "searchhint": "请输入关键词，如\"罗翔\"",
+  "searchhint_found": "请输入关键词，如\"病毒\"",
+  "searchhint_guokr": "请输入关键词，如\"新冠\"",
+  "googlesearchnum": "50",
+  "as_qdr": "y2",
+  "googletitlereplaced": [
+    "--喷嚏网dapenti.com",
+    "https://www.dapenti.com",
+    "http://www.dapenti.com",
+    "›readforwx",
+    "Webresults",
+    "--喷嚏网dapenti...",
+    "--喷嚏网...",
+    "www.dapenti.com›blog"
+  ],
+  "youtube": "https://m.weibo.cn/api/container/getIndex?type=uid&value=2214257545",
+  "yuantengfei": "https://m.youtube.com/c/%E8%A2%81%E8%85%BE%E9%A3%9EYuanTengFei/videos",
+  "yuantengfei_home": "https://m.youtube.com/c/%E8%A2%81%E8%85%BE%E9%A3%9EYuanTengFei/videos?pbj=1",
+  "yuantengfei_more": "https://m.youtube.com/youtubei/v1/browse?key=",
+  "youtubechannels": [
+    {
+      "channel": "李永乐",
+      "key": "https://m.youtube.com/c/%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88/videos",
+      "home": "https://m.youtube.com/c/%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88/videos?pbj=1",
+      "more": "https://m.youtube.com/youtubei/v1/browse?key=",
+      "referer": "https://m.youtube.com/c/%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88/playlists"
+    },
+    {
+      "channel": "袁腾飞",
+      "key": "https://m.youtube.com/c/%E8%A2%81%E8%85%BE%E9%A3%9EYuanTengFei/videos",
+      "home": "https://m.youtube.com/c/%E8%A2%81%E8%85%BE%E9%A3%9EYuanTengFei/videos?pbj=1",
+      "more": "https://m.youtube.com/youtubei/v1/browse?key=",
+      "referer": "https://m.youtube.com/c/%E8%A2%81%E8%85%BE%E9%A3%9EYuanTengFei/playlists"
+    },
+    {
+      "channel": "回形针PaperClip",
+      "key": "https://m.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg/videos",
+      "home": "https://m.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg/videos?pbj=1",
+      "more": "https://m.youtube.com/youtubei/v1/browse?key=",
+      "referer": "https://m.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg/playlists"
+    },
+    {
+      "channel": "一席",
+      "key": "https://m.youtube.com/channel/UCKFB_rVEFEF3l-onQGvGx1A/videos",
+      "home": "https://m.youtube.com/channel/UCKFB_rVEFEF3l-onQGvGx1A/videos?pbj=1",
+      "more": "https://m.youtube.com/youtubei/v1/browse?key=",
+      "referer": "https://m.youtube.com/channel/UCKFB_rVEFEF3l-onQGvGx1A/playlists"
+    },
+    {
+      "channel": "一条",
+      "key": "https://m.youtube.com/c/%E4%B8%80%E6%9D%A1Yit/videos",
+      "home": "https://m.youtube.com/c/%E4%B8%80%E6%9D%A1Yit/videos?pbj=1",
+      "more": "https://m.youtube.com/youtubei/v1/browse?key=",
+      "referer": "https://m.youtube.com/c/%E4%B8%80%E6%9D%A1Yit/playlists"
+    }
+  ],
+  "geographic": [
+    {
+      "title": "宇宙时空之旅",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MA069D2OR"
+    },
+    {
+      "title": "鸟瞰中国",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MAVQHK0OL"
+    },
+    {
+      "title": "探秘紫禁城",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MCPP07D7N"
+    },
+    {
+      "title": "武术大师",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MA5IR5FGF"
+    },
+    {
+      "title": "生死选择题",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MB4SDTDDT"
+    },
+    {
+      "title": "超级工厂",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MA8NO8AFI"
+    },
+    {
+      "title": "历史文化",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MENPRBPDB"
+    },
+    {
+      "title": "动物的情欲世界",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MB0CNE49T"
+    },
+    {
+      "title": "空中浩劫（第三季）",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MA6FJ0V17"
+    },
+    {
+      "title": "空中浩劫（第四季）",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MAC3OUPM0"
+    },
+    {
+      "title": "细说十大灾害",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MDR0ANTDM"
+    },
+    {
+      "title": "黑手党风云",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MA8L9FPQ4"
+    },
+    {
+      "title": "惊世超人",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=MA82T3H0S"
+    }
+  ],
+  "ifeng_years": [
+    "2021",
+    "2020",
+    "2019",
+    "2018",
+    "2017",
+    "2016",
+    "2015",
+    "2014",
+    "2013",
+    "2012",
+    "2011"
+  ],
+  "ifeng_replace_from": "c1.fengshows-cdn.com",
+  "ifeng_replace_to": "q1.fengshows.cn",
+  "ifeng_pic_suffix": "_360.jpg"
+}

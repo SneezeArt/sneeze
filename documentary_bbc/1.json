@@ -1,32 +1,37 @@
 [
   {
-    "title": "一年后，新冠疫情如何改变了武汉",
-    "date": "2020-12-11",
-    "url": "https://www.youtube.com/watch?v=Ub_8oWsWhLo"
-  },
-  {
-    "title": "新冠疫情中艰难求生的夜店员工和性工作者",
-    "date": "2020-09-05",
-    "url": "https://www.youtube.com/watch?v=WzLOitrNW5E"
+    "title": "日本福岛核事故十周年，责任谁属？",
+    "date": "2021-03-11",
+    "url": "https://www.youtube.com/watch?v=-Tog3qtESfg",
+    "cover": "https://i.ytimg.com/vi/-Tog3qtESfg/hq720.jpg",
+    "duration": "16:57"
   },
   {
     "title": "留在香港或流亡英国？示威者的抉择",
     "date": "2021-02-06",
-    "url": "https://www.youtube.com/watch?v=uGCT10kN0aY"
+    "url": "https://www.youtube.com/watch?v=uGCT10kN0aY",
+    "cover": "https://i.ytimg.com/vi/uGCT10kN0aY/hq720.jpg",
+    "duration": "23:31"
   },
   {
     "title": "泰国的青年抗议——挑战不可撼动的王权",
     "date": "2021-01-23",
-    "url": "https://www.youtube.com/watch?v=R2uqkm-pD64"
+    "url": "https://www.youtube.com/watch?v=R2uqkm-pD64",
+    "cover": "https://i.ytimg.com/vi/R2uqkm-pD64/hq720.jpg",
+    "duration": "26:18"
   },
   {
-    "title": "黎智英失去自由前的最后访问",
-    "date": "2021-04-16",
-    "url": "https://www.youtube.com/watch?v=aDKBohi6zOM"
+    "title": "一年后，新冠疫情如何改变了武汉",
+    "date": "2020-12-11",
+    "url": "https://www.youtube.com/watch?v=Ub_8oWsWhLo",
+    "cover": "https://i.ytimg.com/vi/Ub_8oWsWhLo/hq720.jpg",
+    "duration": "17:01"
   },
   {
-    "title": "日本福岛核事故十周年，责任谁属？",
-    "date": "2021-03-11",
-    "url": "https://www.youtube.com/watch?v=-Tog3qtESfg"
+    "title": "新冠疫情中艰难求生的夜店员工和性工作者",
+    "date": "2020-09-05",
+    "url": "https://www.youtube.com/watch?v=WzLOitrNW5E",
+    "cover": "https://i.ytimg.com/vi/WzLOitrNW5E/hq720.jpg",
+    "duration": "17:36"
   }
 ]

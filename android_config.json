@@ -1,11 +1,11 @@
 {
-  "version": "5.9.2",
+  "version": "5.9.3",
   "update": {
-    "version": "3.7.6",
+    "version": "3.7.7",
     "message": "1、优化阅读体验"
   },
   "review": {
-    "3.7.6": "0"
+    "3.7.7": "0"
   },
   "bczexcludes": [
     "热门视频",
@@ -42,7 +42,7 @@
     "bg": "https://wx1.sinaimg.cn/mw690/6ffa5773ly1gnkqri9sq4j20u011i79t.jpg"
   },
   "jpush_appkey": "8ce53b2d1ae264cd93d5a6e9",
-  "yitu": "https://raw.githubusercontent.com/SneezeArt/sneeze/master/yitu.json",
+  "yitu": "https://sneezeart.github.io/sneeze/yitu.json",
   "inapp": "1",
   "founds": [
     {
@@ -302,5 +302,6 @@
   ],
   "ifeng_replace_from": "c1.fengshows-cdn.com",
   "ifeng_replace_to": "q1.fengshows.cn",
-  "ifeng_pic_suffix": "_360.jpg"
+  "ifeng_pic_suffix": "_360.jpg",
+  "bilibili_pic_suffix": "@702w_394h.jpg"
 }

@@ -1,11 +1,11 @@
 {
-  "version": "5.9.3",
+  "version": "6.1.0",
   "update": {
-    "version": "3.7.7",
+    "version": "3.8.1",
     "message": "1、优化阅读体验"
   },
   "review": {
-    "3.7.7": "0"
+    "3.8.1": "0"
   },
   "bczexcludes": [
     "热门视频",

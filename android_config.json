@@ -1,5 +1,5 @@
 {
-  "version": "5.9.1",
+  "version": "5.9.2",
   "update": {
     "version": "3.7.6",
     "message": "1、优化阅读体验"
@@ -16,7 +16,8 @@
     "本月热读",
     "浮世汇",
     "世界观",
-    "财经风云"
+    "财经风云",
+    "乐影"
   ],
   "tugua_limited": 8,
   "tuguapexcludetexts": [

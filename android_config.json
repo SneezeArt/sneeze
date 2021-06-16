@@ -1,8 +1,8 @@
 {
-  "version": "6.1.1",
+  "version": "6.1.2",
   "update": {
-    "version": "3.8.2",
-    "message": "优化阅读体验"
+    "version": "3.8.3",
+    "message": "支持调整阅读字体大小，优化了一些栏目"
   },
   "review": {
     "3.8.2": "0"

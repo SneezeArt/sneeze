@@ -1,5 +1,5 @@
 {
-  "version": "6.1.5",
+  "version": "6.1.6",
   "update": {
     "version": "3.8.5",
     "message": "重新设计了界面，处理了一些网络异常的情况"
@@ -203,10 +203,10 @@
     },
     {
       "channel": "袁腾飞",
-      "key": "https://m.youtube.com/c/%E8%A2%81%E8%85%BE%E9%A3%9EYuanTengFei/videos",
-      "home": "https://m.youtube.com/c/%E8%A2%81%E8%85%BE%E9%A3%9EYuanTengFei/videos?pbj=1",
+      "key": "https://m.youtube.com/c/yuantengfei/videos",
+      "home": "https://m.youtube.com/c/yuantengfei/videos?pbj=1",
       "more": "https://m.youtube.com/youtubei/v1/browse?key=",
-      "referer": "https://m.youtube.com/c/%E8%A2%81%E8%85%BE%E9%A3%9EYuanTengFei/playlists"
+      "referer": "https://m.youtube.com/c/yuantengfei/playlists"
     },
     {
       "channel": "回形针PaperClip",

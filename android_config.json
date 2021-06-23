@@ -1,8 +1,8 @@
 {
-  "version": "6.1.6",
+  "version": "6.2.1",
   "update": {
-    "version": "3.8.5",
-    "message": "重新设计了界面，处理了一些网络异常的情况"
+    "version": "3.9.0",
+    "message": "修复了一些隐私问题，赶快更新体验吧"
   },
   "bczexcludes": [
     "热门视频",

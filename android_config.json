@@ -1,8 +1,8 @@
 {
-  "version": "6.2.1",
+  "version": "6.2.2",
   "update": {
-    "version": "3.9.0",
-    "message": "修复了一些隐私问题，赶快更新体验吧"
+    "version": "3.9.1",
+    "message": "修复了热门栏目无法刷新或者显示的问题"
   },
   "bczexcludes": [
     "热门视频",

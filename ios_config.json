@@ -1,0 +1,172 @@
+{
+  "version": "1.0.0",
+  "update": {
+    "version": "1.0",
+    "message": "修复了热门栏目无法刷新或者显示的问题"
+  },
+  "bczexcludes": [
+    "热门视频",
+    "长阅读",
+    "本周热读",
+    "铂程斋书评",
+    "浮世绘",
+    "本月热读",
+    "浮世汇",
+    "世界观",
+    "财经风云",
+    "乐影"
+  ],
+  "tugua_limited": 7,
+  "tuguapexcludetexts": [
+    "海外访问，请加",
+    "友情提示：请各位河蟹评论。道理你懂的",
+    "喷嚏新浪围脖：",
+    "无需App在移动设备上看喷嚏",
+    "https://item.taobao.com/item.htm",
+    "广告"
+  ],
+  "tuguaaexcludetexts": [
+    "115钻石VIP",
+    "115钻石VIP（1年价格=3年",
+    "爱奇艺半价年卡",
+    "https://item.taobao.com/item.htm"
+  ],
+  "tuguapexcludetexts_special": [
+    ">广告</span>"
+  ],
+  "drawer": {
+    "txt": "须知参差多态，乃是幸福本源",
+    "bg": "https://wx1.sinaimg.cn/mw690/6ffa5773ly1gnkqri9sq4j20u011i79t.jpg"
+  },
+  "jpush_appkey": "8ce53b2d1ae264cd93d5a6e9",
+  "yitu": "https://sneezeart.github.io/sneeze/yitu.json",
+  "inapp": "1",
+  "founds": [
+    {
+      "title": "首页",
+      "items": [
+        {
+          "title": "编辑推荐",
+          "href": "https://10why.net/"
+        }
+      ]
+    },
+    {
+      "title": "科学世界",
+      "items": [
+        {
+          "title": "数理化篇",
+          "href": "https://10why.net/category/maths/"
+        },
+        {
+          "title": "科技篇",
+          "href": "https://10why.net/category/tech/"
+        },
+        {
+          "title": "天文篇",
+          "href": "https://10why.net/category/astronomy/"
+        },
+        {
+          "title": "地理篇",
+          "href": "https://10why.net/category/geography/"
+        }
+      ]
+    },
+    {
+      "title": "生物王国",
+      "items": [
+        {
+          "title": "人体篇",
+          "href": "https://10why.net/category/human/"
+        },
+        {
+          "title": "动物篇",
+          "href": "https://10why.net/category/animal/"
+        },
+        {
+          "title": "植物篇",
+          "href": "https://10why.net/category/plant/"
+        },
+        {
+          "title": "健康篇",
+          "href": "https://10why.net/category/healthy/"
+        }
+      ]
+    },
+    {
+      "title": "国际博览",
+      "items": [
+        {
+          "title": "交通篇",
+          "href": "https://10why.net/category/traffic/"
+        },
+        {
+          "title": "国家篇",
+          "href": "https://10why.net/category/country/"
+        },
+        {
+          "title": "军事篇",
+          "href": "https://10why.net/category/military/"
+        },
+        {
+          "title": "体育篇",
+          "href": "https://10why.net/category/sport/"
+        }
+      ]
+    },
+    {
+      "title": "人文广场",
+      "items": [
+        {
+          "title": "文化篇",
+          "href": "https://10why.net/category/culture/"
+        },
+        {
+          "title": "艺术篇",
+          "href": "https://10why.net/category/art/"
+        },
+        {
+          "title": "历史篇",
+          "href": "https://10why.net/category/history/"
+        }
+      ]
+    }
+  ],
+  "guokrs": [
+    {
+      "name": "推荐"
+    },
+    {
+      "id": 1,
+      "name": "科技"
+    },
+    {
+      "id": 2,
+      "name": "奇趣"
+    },
+    {
+      "id": 3,
+      "name": "生活"
+    },
+    {
+      "id": 4,
+      "name": "健康"
+    },
+    {
+      "id": 5,
+      "name": "人文"
+    },
+    {
+      "id": 6,
+      "name": "自然"
+    },
+    {
+      "id": 8,
+      "name": "数码"
+    },
+    {
+      "id": 9,
+      "name": "美食"
+    }
+  ]
+}

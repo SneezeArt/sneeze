@@ -2,8 +2,9 @@
   "version": "1.0.0",
   "update": {
     "version": "1.0",
-    "message": "修复了热门栏目无法刷新或者显示的问题"
+    "message": "修复了一些问题"
   },
+  "appId": "1574172530",
   "bczexcludes": [
     "热门视频",
     "长阅读",
@@ -16,6 +17,8 @@
     "财经风云",
     "乐影"
   ],
+  "bczreplace": {"铂程斋": "生活腔调", "乐活": "奇闻轶事"},
+  "review" : "1",
   "tugua_limited": 7,
   "tuguapexcludetexts": [
     "海外访问，请加",
@@ -40,7 +43,6 @@
   },
   "jpush_appkey": "8ce53b2d1ae264cd93d5a6e9",
   "yitu": "https://sneezeart.github.io/sneeze/yitu.json",
-  "inapp": "1",
   "founds": [
     {
       "title": "首页",

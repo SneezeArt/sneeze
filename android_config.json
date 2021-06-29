@@ -1,5 +1,5 @@
 {
-  "version": "6.2.3",
+  "version": "6.2.4",
   "update": {
     "version": "3.9.1",
     "message": "修复了热门栏目无法刷新或者显示的问题"
@@ -231,6 +231,10 @@
     }
   ],
   "geographic": [
+    {
+      "title": "动物大预警",
+      "href": "https://c.open.163.com/open/mob/movie/list.do?plid=AFJGCC0EI"
+    },
     {
       "title": "伟大的吴哥窟",
       "href": "https://c.open.163.com/open/mob/movie/list.do?plid=IFJGLV0CV"

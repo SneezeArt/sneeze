@@ -1,8 +1,8 @@
 {
-  "version": "6.2.4",
+  "version": "6.4.0",
   "update": {
-    "version": "3.9.1",
-    "message": "修复了热门栏目无法刷新或者显示的问题"
+    "version": "3.9.3",
+    "message": "修复了Youtube精选视频无法显示的问题"
   },
   "bczexcludes": [
     "热门视频",
@@ -308,5 +308,19 @@
   "ifeng_replace_from": "c1.fengshows-cdn.com",
   "ifeng_replace_to": "q1.fengshows.cn",
   "ifeng_pic_suffix": "_360.jpg",
-  "bilibili_pic_suffix": "@702w_394h.jpg"
+  "bilibili_pic_suffix": "@702w_394h.jpg",
+  "months": {
+    "Jan": "01",
+    "Feb": "02",
+    "Mar": "03",
+    "Apr": "04",
+    "May": "05",
+    "Jun": "06",
+    "Jul": "07",
+    "Aug": "08",
+    "Sep": "09",
+    "Oct": "10",
+    "Nov": "11",
+    "Dec": "12"
+  }
 }

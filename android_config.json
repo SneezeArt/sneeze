@@ -1,5 +1,5 @@
 {
-  "version": "6.4.0",
+  "version": "6.4.1",
   "update": {
     "version": "3.9.3",
     "message": "修复了Youtube精选视频无法显示的问题"
@@ -207,13 +207,6 @@
       "home": "https://m.youtube.com/c/yuantengfei/videos?pbj=1",
       "more": "https://m.youtube.com/youtubei/v1/browse?key=",
       "referer": "https://m.youtube.com/c/yuantengfei/playlists"
-    },
-    {
-      "channel": "回形针PaperClip",
-      "key": "https://m.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg/videos",
-      "home": "https://m.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg/videos?pbj=1",
-      "more": "https://m.youtube.com/youtubei/v1/browse?key=",
-      "referer": "https://m.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg/playlists"
     },
     {
       "channel": "一席",

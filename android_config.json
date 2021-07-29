@@ -1,5 +1,5 @@
 {
-  "version": "6.4.1",
+  "version": "6.4.2",
   "update": {
     "version": "3.9.3",
     "message": "修复了Youtube精选视频无法显示的问题"
@@ -207,13 +207,6 @@
       "home": "https://m.youtube.com/c/yuantengfei/videos?pbj=1",
       "more": "https://m.youtube.com/youtubei/v1/browse?key=",
       "referer": "https://m.youtube.com/c/yuantengfei/playlists"
-    },
-    {
-      "channel": "一席",
-      "key": "https://m.youtube.com/channel/UCKFB_rVEFEF3l-onQGvGx1A/videos",
-      "home": "https://m.youtube.com/channel/UCKFB_rVEFEF3l-onQGvGx1A/videos?pbj=1",
-      "more": "https://m.youtube.com/youtubei/v1/browse?key=",
-      "referer": "https://m.youtube.com/channel/UCKFB_rVEFEF3l-onQGvGx1A/playlists"
     },
     {
       "channel": "一条",

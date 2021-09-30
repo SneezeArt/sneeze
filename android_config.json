@@ -1,9 +1,13 @@
 {
-  "version": "6.4.2",
+  "version": "7.4.3.1",
   "update": {
-    "version": "3.9.3",
-    "message": "修复了Youtube精选视频无法显示的问题"
+    "version": "4.3.0",
+    "message": ""
   },
+  "excludes_items": [
+    "喷嚏优选",
+    "【喷嚏图卦"
+  ],
   "bczexcludes": [
     "热门视频",
     "长阅读",
@@ -23,7 +27,8 @@
     "喷嚏新浪围脖：",
     "无需App在移动设备上看喷嚏",
     "https://item.taobao.com/item.htm",
-    "广告"
+    "广告",
+    "喷嚏优选"
   ],
   "tuguaaexcludetexts": [
     "115钻石VIP",

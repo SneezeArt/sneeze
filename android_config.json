@@ -2,7 +2,7 @@
   "version": "7.4.6.1",
   "update": {
     "version": "4.6.0",
-    "message": ""
+    "message": "修复了一些问题，优化了阅读体验"
   },
   "excludes_items": [
     "喷嚏优选",

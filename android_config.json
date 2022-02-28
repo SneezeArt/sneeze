@@ -1,10 +1,10 @@
 {
-  "version": "7.4.9.2",
+  "version": "7.4.9.3",
   "update": {
     "version": "4.9.0",
     "message": "优化了栏目，修复了一些问题，优化了阅读体验"
   },
-  "film_url": "https://www.nunuyy1.top",
+  "film_url": "https://www.nunuyy.top",
   "excludes_items": [
     "喷嚏优选",
     "【喷嚏图卦"

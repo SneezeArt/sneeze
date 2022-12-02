@@ -1,5 +1,5 @@
 {
-  "version": "8.5.0.0",
+  "version": "8.5.0.1",
   "update": {
     "version": "5.0.0",
     "message": "优化了栏目，修复了一些问题，优化了阅读体验"
@@ -55,8 +55,8 @@
       "url": "https://m.weibo.cn/api/container/getIndex?type=uid&value=2214257545"
     },
     {
-      "title": "牛叔说电影",
-      "url": "https://m.weibo.cn/api/container/getIndex?type=uid&value=5769702533"
+      "title": "越哥说电影",
+      "url": "https://m.weibo.cn/api/container/getIndex?type=uid&value=2092751083"
     }
   ],
   "bilibilis": [

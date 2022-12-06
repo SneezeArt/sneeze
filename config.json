@@ -1,7 +1,7 @@
 {
-  "version": "8.5.0.1",
+  "version": "8.5.1.1",
   "update": {
-    "version": "5.0.0",
+    "version": "5.1.0",
     "message": "优化了栏目，修复了一些问题，优化了阅读体验"
   },
   "excludes_items": [
@@ -49,6 +49,23 @@
     "txt": "须知参差多态，乃是幸福本源",
     "bg": "https://wx1.sinaimg.cn/mw690/6ffa5773ly1gnkqri9sq4j20u011i79t.jpg"
   },
+  "videos": [
+    {
+      "title": "Youtube精选",
+      "url": "https://m.weibo.cn/api/container/getIndex?type=uid&value=2214257545",
+      "type": "weibo"
+    },
+    {
+      "title": "罗翔说刑法",
+      "mid": "517327498",
+      "type": "bilibili"
+    },
+    {
+      "title": "越哥说电影",
+      "url": "https://m.weibo.cn/api/container/getIndex?type=uid&value=2092751083",
+      "type": "weibo"
+    }
+  ],
   "weibos": [
     {
       "title": "Youtube精选",

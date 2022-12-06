@@ -1,5 +1,5 @@
 {
-  "version": "8.5.1.1",
+  "version": "8.5.1.2",
   "update": {
     "version": "5.1.0",
     "message": "优化了栏目，修复了一些问题，优化了阅读体验"
@@ -58,6 +58,11 @@
     {
       "title": "罗翔说刑法",
       "mid": "517327498",
+      "type": "bilibili"
+    },
+    {
+      "title": "一席",
+      "mid": "26079128",
       "type": "bilibili"
     },
     {
